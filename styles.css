@@ -359,6 +359,7 @@ aside {
   }
   #productDetail {
     width: 100%;
+    padding-bottom: 15px;
   }
   .cards-container {
     grid-template-columns: repeat(auto-fill, 140px);
